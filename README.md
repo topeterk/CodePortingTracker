@@ -25,9 +25,9 @@ All available releases can be found at the [Releases page] (https://github.com/t
 ## Front-End
 > Please visit the **[Wiki pages] (../../wiki)** for some screenshots.
 
-## Something is missing, annoying, can be improvent or you just found a bug?
-Message me via GitHub / e-mail or simply open an issue and I will try to help you out.
-
+## Anything is missing, something is annoying/can be improved or you just found a bug?
+Message me via GitHub / e-mail or simply open an issue and I will try to help you out.  
+  
   
   
 > Praise the sun!  :sunny: . . . :fire: . . .  :running: :dash: 
